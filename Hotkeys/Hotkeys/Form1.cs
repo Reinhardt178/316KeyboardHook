@@ -41,16 +41,12 @@ namespace Hotkeys
         public void gHook_KeyDown(object sender, KeyEventArgs e)
         {
            // Form1.Current.Focus();
-            if (e.Control && e.Shift && e.KeyCode.ToString() == "S")
-            {
-                label3.Text = "fok";
-            }
           // Form1.Current.Focus();
             if (!mouse)
             {
                 textBox1.Text += ((char)e.KeyValue).ToString();
                 txt = ((char)e.KeyValue).ToString();
-                using (StreamWriter writer = File.AppendText(@"C:\Users\mille\source\repos\Hotkeys\file.txt"))
+                using (StreamWriter writer = File.AppendText(@"C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\file.txt"))
                 {
                     writer.WriteLine(txt);
                 }

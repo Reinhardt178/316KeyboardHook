@@ -8,3 +8,13 @@ C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csproj.GenerateRes
 C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csproj.CoreCompileInputs.cache
 C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.exe
 C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.pdb
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\bin\Debug\Hotkeys.exe.config
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\bin\Debug\Hotkeys.exe
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\bin\Debug\Hotkeys.pdb
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csprojAssemblyReference.cache
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\obj\Debug\Hotkeys.Form1.resources
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\obj\Debug\Hotkeys.Properties.Resources.resources
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csproj.GenerateResource.cache
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csproj.CoreCompileInputs.cache
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\obj\Debug\Hotkeys.exe
+C:\Users\mille\Desktop\316KeyboardHook\Hotkeys\Hotkeys\obj\Debug\Hotkeys.pdb
