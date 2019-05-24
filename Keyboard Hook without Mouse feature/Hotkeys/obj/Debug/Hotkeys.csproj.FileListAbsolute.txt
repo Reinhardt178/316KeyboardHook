@@ -1,0 +1,30 @@
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\bin\Debug\Hotkeys.exe.config
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\bin\Debug\Hotkeys.exe
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\bin\Debug\Hotkeys.pdb
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csprojAssemblyReference.cache
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.Form1.resources
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.Properties.Resources.resources
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csproj.GenerateResource.cache
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csproj.CoreCompileInputs.cache
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.exe
+C:\Users\mille\source\repos\Hotkeys\Hotkeys\obj\Debug\Hotkeys.pdb
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\bin\Debug\Hotkeys.exe.config
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\bin\Debug\Hotkeys.exe
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\bin\Debug\Hotkeys.pdb
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csprojAssemblyReference.cache
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\obj\Debug\Hotkeys.Form1.resources
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\obj\Debug\Hotkeys.Properties.Resources.resources
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csproj.GenerateResource.cache
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\obj\Debug\Hotkeys.csproj.CoreCompileInputs.cache
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\obj\Debug\Hotkeys.exe
+C:\Users\Christo\Desktop\316KeyboardHook-master\316KeyboardHook-master\Hotkeys\Hotkeys\obj\Debug\Hotkeys.pdb
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\bin\Debug\Hotkeys.exe.config
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\bin\Debug\Hotkeys.exe
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\bin\Debug\Hotkeys.pdb
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\obj\Debug\Hotkeys.csprojAssemblyReference.cache
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\obj\Debug\Hotkeys.Form1.resources
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\obj\Debug\Hotkeys.Properties.Resources.resources
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\obj\Debug\Hotkeys.csproj.GenerateResource.cache
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\obj\Debug\Hotkeys.csproj.CoreCompileInputs.cache
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\obj\Debug\Hotkeys.exe
+C:\Users\mille\Desktop\316KeyboardHook\Keyboard Hook without Mouse feature\Hotkeys\obj\Debug\Hotkeys.pdb
